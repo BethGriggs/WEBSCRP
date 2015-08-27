@@ -1,0 +1,110 @@
+.block {
+	text-align: center;
+}
+
+body
+{
+	background: #ffffff;
+	margin: 0;
+}
+
+.center
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+.centerAlign
+{
+	text-align:center;
+}
+#container
+{
+	background: #ffffff;
+	display: block;
+	text-align: center;
+}
+
+.content-btn
+{
+	background: #D5DED9;
+	border-radius: 17px;
+	color: #000000;
+	font-family: Arial;
+	font-size: 14px;
+	margin: 0.5em;
+	moz-border-radius: 17;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	webkit-border-radius: 17;
+}
+.content-btn :hover
+{
+	background: #d2d3d4;
+	text-decoration: none;
+}
+
+.floatRight
+{
+	float: right;
+}
+
+footer
+{
+	background: #D5DED9;
+}
+form
+{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1%;
+	display: block;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+header
+{
+	background: #60bbb8;
+	height: 50px;
+}
+header h1
+{
+	color: white;
+	margin: 0;
+	margin-left: 1em;
+	position: fixed;
+}
+
+nav
+{
+	background: #149997;
+	border-bottom-color: #D5DED9;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	height: 30px;
+}
+
+.navBtn
+{
+	background: transparent;
+	border: 0 none;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 18px;
+	padding: 0px 15px 6px 15px;
+	text-decoration: none;
+	text-shadow: 1px 1px 3px #666666;
+}
+
+#pageTitle
+{
+	text-align: -webkit-center;
+}
+
+
+.thumnail {
+	width: 100px;
+	height:100px;
+}
